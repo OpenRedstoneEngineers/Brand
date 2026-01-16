@@ -32,6 +32,11 @@ Exported and dropped into a favicon generator.
 I still have the damn notebook I violated with a red marker.
 A true beauty.
 
+Some of the original concept drawings:
+
+<img src="concept_1.jpg" alt="Concept Drawings" height="200"/>
+<img src="concept_2.jpg" alt="Finalizing Concept" height="200"/>
+
 ### Primary Logo
 The primary logo should be used in most situations. An SVG of this same image is provided [here](logo/oreicon.svg)
 
